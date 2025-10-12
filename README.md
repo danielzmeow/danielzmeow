@@ -9,8 +9,7 @@
 
 - Ching-ho Wang
 - they/them 🏳️‍🌈
-- In a relationship 💕
-- NEYC & 25 Fall in Computer Science Engineering
+- NEYC & BEng in Computer Science Engineering @ HKUST
 - 这是我们**最后一代**谢谢
 - En & 中文 & 學緊白話
 
