@@ -1,4 +1,6 @@
-# 🐈 Hi, I am Daniel | Ching-ho Wang
+# 🐈 Hi, I am Daniel
+
+My legal name pronunciation is *Ching-ho Wang*.
 
 `🏳️‍🌈 they/them` | `NEYC '25` | `BEng CSE (AI) '29 @ HKUST`
 
@@ -9,7 +11,7 @@ I entered this industry because of the legacies of Alan Turing and Dr. Fei-Fei L
 ### 🧬 Professional Identity
 
 * **Swift Developer** | Vibe coder & Great partners
-* **AI Practitioner** | Claude Code & Gemini
+* **AI Practitioner** | CodeX & Gemini & ChatGPT
 * **Language Learner** | En & 中文 & 學緊白話
 
 ### 🛠 Tech Stack
