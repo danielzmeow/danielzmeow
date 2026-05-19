@@ -2,7 +2,7 @@
 
 My legal name pronunciation is *Ching-ho Wang*.
 
-`🏳️‍🌈 they/them` | `NEYC '25` | `BEng CSE (AI) '29 @ HKUST`
+`🏳️‍🌈 they/them` | `NEYC '25` | `BEng CSE (AI) / HKUST '29`
 
 > Believing that computer science is the architectural bedrock of modern society.
 
