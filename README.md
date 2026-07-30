@@ -1,8 +1,6 @@
 # 🐈 Hi, I am Daniel
 
-My legal name pronunciation is *Ching-ho Wang*.
-
-`🏳️‍🌈 they/them` | `NEYC '25` | `BEng CSE (AI) / HKUST '29`
+`🏳️‍🌈 they/them` | `NEYC '25` | `BEng in AI (CSE) / HKUST '29`
 
 > Believing that computer science is the architectural bedrock of modern society.
 
@@ -11,8 +9,12 @@ I entered this industry because of the legacies of Alan Turing and Dr. Fei-Fei L
 ### 🧬 Professional Identity
 
 * **Swift Developer** | Vibe coder & Great partners
-* **AI Practitioner** | CodeX & Gemini & ChatGPT & Hermes Agent
+* **CSE Student** | Learnt from school and practiced in projects.
+
+### ⛱️ Daily Life
+
 * **Language Learner** | En & 中文 & 學緊白話
+* **Runner & Skier** | Hoping to run a half-marathon and try heli-skiing
 
 ### 📚 Course Taken
 
@@ -36,6 +38,6 @@ I entered this industry because of the legacies of Alan Turing and Dr. Fei-Fei L
 
 ### 🌐 Digital Presence
 
-[![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)](https://x.com/danielzmeow) 
+[![Twitter](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)](https://x.com/danielzmeow) 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/danielzmeow/) 
-[![Blog](https://img.shields.io/badge/Astro-BC52EE?style=for-the-badge&logo=astro&logoColor=fff)](https://danielz.net)
+[![Website](https://img.shields.io/badge/Astro-BC52EE?style=for-the-badge&logo=astro&logoColor=fff)](https://danielz.net)
