@@ -1,6 +1,6 @@
 # 🐈 Hi, I am Daniel
 
-`🏳️‍🌈 they/them` | `NEYC '25` | `BEng in AI (CSE) / HKUST '29`
+`🏳️‍🌈 they/them` | `NEYC '25 / BEng in AI (CSE) @ HKUST '29`
 
 > Believing that computer science is the architectural bedrock of modern society.
 
