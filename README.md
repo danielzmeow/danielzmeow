@@ -2,6 +2,9 @@
 
 `🏳️‍🌈 they/them` | `NEYC '25 / BEng in AI (CSE) @ HKUST '29`
 
+My resume is available at My resume is available at <https://resume.danielz.net>.
+.
+
 > Believing that computer science is the architectural bedrock of modern society.
 
 I entered this industry because of the legacies of Alan Turing and Dr. Fei-Fei Li.
