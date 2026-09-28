@@ -2,7 +2,7 @@
 
 `🏳️‍🌈 they/them` | `NEYC '25 / BEng in AI (CSE) @ HKUST '29`
 
-My resume is available at My resume is available at <https://resume.danielz.net>.
+My resume is available at [Daniel's online resume](https://resume.danielz.net).
 
 > Believing that computer science is the architectural bedrock of modern society.
 
