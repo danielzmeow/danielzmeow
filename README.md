@@ -21,7 +21,7 @@ I entered this industry because of the legacies of Alan Turing and Dr. Fei-Fei L
 ### 📚 Course Taken
 
 * **Introduction to Artificial Intelligence** | Implemented core artificial intelligence algorithms
-* **Discrete Mathematics** | Strengthened theoretical foundations for algorithms, graphs, logic, and formal reasoning
+* **Design and Analysis of Algorithms** | Mastered core algorithmic paradigms (dynamic programming, greedy, divide-and-conquer) and asymptotic complexity analysis
 
 ### 🛠 Tech Stack
 
